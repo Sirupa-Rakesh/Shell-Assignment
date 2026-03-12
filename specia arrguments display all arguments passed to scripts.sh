@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "all arguments : $@"
-echo " all arguments : $1"
-echo " all arguments : $2"
-echo " all arguments : $#"
-echo " all arguments : $0"
+echo " first arguments : $1"
+echo " second arguments : $2"
+echo " no.of arguments : $#"
+echo " script name  : $0"
